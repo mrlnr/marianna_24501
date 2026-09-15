@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Сейсмические данные
+*.sgy
+*.segy
+*.SGY
+*.SEGY
+
+# Папки с данными
+data/
+raw_data/
