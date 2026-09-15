@@ -226,3 +226,5 @@ __marimo__/
 # Папки с данными
 data/
 raw_data/
+
+.venv/
